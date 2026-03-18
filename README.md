@@ -22,7 +22,7 @@ Ben bilgisayar mühendisliği öğrencisiyim ve kod yazmayı, problem çözmeyi 
 ---
 
 ## ✨ GitHub İstatistiklerim
-![Dila Alpay GitHub Stats](![Dila Alpay GitHub Stats](https://github-readme-stats.vercel.app/api?username=dila0704&show_icons=true&theme=radical))
+(![Dila Alpay GitHub Stats](https://github-readme-stats.vercel.app/api?username=dila0704&show_icons=true&theme=radical))
 
 ---
 
