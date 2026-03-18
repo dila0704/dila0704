@@ -1,17 +1,31 @@
-## Hi there 👋
+# 👋 Merhaba, ben Dila Alpay!
 
+Ben bilgisayar mühendisliği öğrencisiyim ve kod yazmayı, problem çözmeyi çok seviyorum. 💻✨  
 
-<!--
-**dila0704/dila0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Şu anda kendimi özellikle **Python**, **C#** ve **Java** üzerinde geliştiriyorum.  
+🚀 Bireysel ve akademik projeler ile sürekli öğreniyorum.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Teknolojiler & Araçlar
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+## ✨ GitHub İstatistiklerim
+![Dila Alpay GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+## 🎯 Hedeflerim
+- Yeni projeler yaparak kendimi geliştirmek  
+- Açık kaynak katkılar yapmak  
+- Kod yazmayı ve öğrenmeyi eğlenceli hâle getirmek 😄  
+
+---
+
+## 📫 Bana Ulaş
+- [LinkedIn] (https://www.linkedin.com/in/dila-alpay/)
+
