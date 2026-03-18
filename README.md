@@ -2,7 +2,7 @@
 
 Ben bilgisayar mühendisliği öğrencisiyim ve kod yazmayı, problem çözmeyi çok seviyorum. 💻✨  
 
-🌱 Şu anda kendimi özellikle **Python**, **C#** ve **Java** üzerinde geliştiriyorum.  
+🌱 Şu anda kendimi özellikle **Python**, **C#** ve **Java** ve **Python** üzerinde geliştiriyorum.  
 🚀 Bireysel ve akademik projeler ile sürekli öğreniyorum.  
 
 ---
